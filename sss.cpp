@@ -11,3 +11,4 @@ cout<<"TEKST";
 
 
 /* extra comment */
+/* only version 2*/
