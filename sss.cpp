@@ -1,6 +1,6 @@
 #include<iostream>
 #define SQRT(X) X*X;
-
+#define LOL 100;
 using namespace std;
 
 int main()
